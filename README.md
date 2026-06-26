@@ -18,7 +18,7 @@
 
 <h2> 📄 Sobre mí </h2>
 
-Soy Ingeniero de Software recien egresado con conocimientos en el desarrollo backend, la manipulación de datos y la automatización de procesos mediante código. Me enfoco en optimizar flujos de trabajo administrativos e industriales, transformando la lógica de datos en herramientas precisas y eficientes que resuelven problemas del mundo real. Puedes conocer más sobre mí en mi sitio web personal: [matiasdev.me](https://matiasdev.me).
+Soy Ingeniero de Software recién egresado con conocimientos en el desarrollo backend, la manipulación de datos y la automatización de procesos mediante código. Me enfoco en optimizar flujos de trabajo administrativos e industriales, transformando la lógica de datos en herramientas precisas y eficientes que resuelven problemas del mundo real. Puedes conocer más sobre mí en mi sitio web personal: [matiasdev.me](https://matiasdev.me).
 
 *   **¿Qué hago actualmente?** Creo scripts avanzados de automatización, sistemas de generación automática de reportes e interfaces gráficas modernas conectadas a bases de datos locales para el control y digitalización de procesos.
 *   **Áreas de especialidad:** Automatización con Python, diseño de bases de datos relacionales ligeras, desarrollo de interfaces de usuario para scripts y organización ágil de proyectos.
@@ -52,6 +52,7 @@ Soy Ingeniero de Software recien egresado con conocimientos en el desarrollo bac
 
   <img src = "https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt = "vscode" />
   <img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white" alt = "canva" />
+
 <h2> 📊 Actividad en GitHub </h2>
 
 <p align="left">
@@ -80,7 +81,7 @@ Actualmente dedicando entre 1 y 2 horas diarias al dominio de infraestructura, r
   <br>
   
   *   [ ] **Redes desde Consola:** Protocolo SSH, diagnóstico (`ping`, `curl`, `netstat`) y seguridad perimetral con firewall (`ufw`).
-  *   [ ] **Bases de Datos Robustas:** Instalación, consultas avanzadas y persistencia conectando Python a **PostgreSQL / MySQL**.
+  *   [ ] **Bases de Datos Robustas:** Instalación, consultas avanzadas y precisión conectando Python a **PostgreSQL / MySQL**.
   *   [ ] **Automatización Temporal:** Programación de tareas automáticas en el sistema usando **Cron y Crontab**.
   *   *Proyecto de validación:* **El Monitor de Conectividad** (Script que prueba servicios cada 10 minutos vía Cron, guarda estados en PostgreSQL y genera alertas).
   </details>
@@ -107,9 +108,13 @@ Actualmente dedicando entre 1 y 2 horas diarias al dominio de infraestructura, r
 
 <h2> 🚀 Proyectos Destacados </h2>
 
-*   **Sistema de Automatización y Reportes:** Herramienta desarrollada en **Python** y **SQLite** orientada al cálculo preciso de concentraciones químicas y generación automatizada de reportes diarios en PDF. Ideada para eliminar el error humano y optimizar tiempos de entrega.
+* **[password-manager-python](https://github.com/MatiasGonzalez-Dev/password-manager-python):** Herramienta desarrollada en **Python** y **SQLite** orientada a la gestión de credenciales seguras con soporte para doble perfil de usuario, control de accesos y diseño lógico de autenticación.
     <br>
-    <a href="https://github.com/MatiasGonzalez-Dev" target="_blank"><img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+    <a href="https://github.com/MatiasGonzalez-Dev/password-manager-python" target="_blank"><img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
+
+* **[30-Days-Of-Python](https://github.com/MatiasGonzalez-Dev/30-Days-Of-Python):** Repositorio dedicado al desarrollo lógico diario mediante desafíos prácticos en Python, reforzando estructuras de datos, manejo de archivos y buenas prácticas de programación.
+    <br>
+    <a href="https://github.com/MatiasGonzalez-Dev/30-Days-Of-Python" target="_blank"><img src="https://img.shields.io/badge/Código-181717?style=flat-square&logo=github&logoColor=white" alt="Repo" /></a>
 
 </div>
 
